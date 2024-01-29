@@ -1,0 +1,54 @@
+15:57:14.929 [main] ERROR testCases.TC_001_Account_RegistrationTest - test failed...
+15:57:15.337 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@28cb3a25: 57 ms
+15:57:15.501 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@cf518cf: 162 ms
+15:57:15.522 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@37e0292a: 20 ms
+15:57:15.537 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@336206d8: 15 ms
+15:57:15.549 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@fcc6023: 12 ms
+15:57:15.565 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@46185a1b: 15 ms
+15:57:15.565 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@51288417: 0 ms
+21:23:45.804 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Shubham Automation new\OpenCartFrameworkH\testng.xml"
+21:23:46.238 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Shubham Automation new\OpenCartFrameworkH\testng.xml
+
+21:23:50.797 [main] DEBUG testCases.TC_001_Account_RegistrationTest - **Appication Log**
+21:23:52.425 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***Starting Test case number 1st***
+21:23:52.425 [main] DEBUG testCases.TC_001_Account_RegistrationTest - Application Log Start.....
+21:23:52.586 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***clickMyAccount***
+21:23:53.085 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***clickRegister***
+21:23:53.085 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***AccountRegistrationPage***
+21:23:56.424 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***click on continue***
+21:23:56.461 [main] INFO  testCases.TC_001_Account_RegistrationTest - test passed...
+21:23:56.465 [main] DEBUG testCases.TC_001_Account_RegistrationTest - Application Log finish.....
+21:23:56.465 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***finish Test case number 1st***
+21:24:16.974 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Shubham Automation new\OpenCartFrameworkH\testng.xml"
+21:24:17.358 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Shubham Automation new\OpenCartFrameworkH\testng.xml
+
+21:24:23.879 [main] DEBUG testCases.TC_001_Account_RegistrationTest - **Appication Log**
+21:24:24.897 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***Starting Test case number 1st***
+21:24:24.898 [main] DEBUG testCases.TC_001_Account_RegistrationTest - Application Log Start.....
+21:24:25.030 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***clickMyAccount***
+21:24:25.456 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***clickRegister***
+21:24:25.456 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***AccountRegistrationPage***
+21:24:28.634 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***click on continue***
+21:24:28.674 [main] INFO  testCases.TC_001_Account_RegistrationTest - test passed...
+21:24:28.678 [main] DEBUG testCases.TC_001_Account_RegistrationTest - Application Log finish.....
+21:24:28.678 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***finish Test case number 1st***
+21:27:34.844 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Shubham Automation new\OpenCartFrameworkH\CrossBrowser.xml"
+21:27:35.247 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Shubham Automation new\OpenCartFrameworkH\CrossBrowser.xml
+
+21:27:38.609 [main] DEBUG testCases.TC_001_Account_RegistrationTest - **Appication Log**
+21:27:39.438 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***Starting Test case number 1st***
+21:27:39.438 [main] DEBUG testCases.TC_001_Account_RegistrationTest - Application Log Start.....
+21:27:39.804 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***clickMyAccount***
+21:27:40.251 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***clickRegister***
+21:27:40.252 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***AccountRegistrationPage***
+21:27:43.635 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***click on continue***
+21:27:43.674 [main] INFO  testCases.TC_001_Account_RegistrationTest - test passed...
+21:27:43.677 [main] DEBUG testCases.TC_001_Account_RegistrationTest - Application Log finish.....
+21:27:43.679 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***finish Test case number 1st***
+21:27:47.820 [main] DEBUG testCases.TC_001_Account_RegistrationTest - **Appication Log**
+21:27:49.181 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***Starting Test case number 1st***
+21:27:49.181 [main] DEBUG testCases.TC_001_Account_RegistrationTest - Application Log Start.....
+21:27:49.312 [main] INFO  testCases.TC_001_Account_RegistrationTest - ***clickMyAccount***
